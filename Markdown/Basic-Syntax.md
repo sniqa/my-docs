@@ -26,6 +26,39 @@ This is second line
 >块引用
 
 多个块引用，空白段落也要添加``>``符号
+>块1
+> 
+>块2
+
+嵌套引用: 在段落前添加``>>``
+>块1
+>>子块
+
+### 列表语法
+有序列表: 在每个列表项前添加数字和英文据点
+	1. first item
+	2. second item
+	3. third item
+无序列表: 在每个列表项前添加-,* 或者+
+	- first item           
+	- second item
+	- third item 
+
+	* first item
+	* second item
+	* third item
+
+	+ first item
+	+ second item
+	+ third item
+	
+嵌套列表：子项缩进并在子项前添加-,* 或者+
+	- first item           
+		* first child item1
+		* first child item2
+	- second item
+	
+
 
 
 
