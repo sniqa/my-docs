@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5efbf6e154711523",
@@ -195,7 +195,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "172a8c9ed9685c6a",
+  "active": "77872449143c0af5",
   "lastOpenFiles": [
     "Markdown/Online-address.md",
     "Markdown/Basic-Syntax.md",
