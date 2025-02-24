@@ -11,14 +11,12 @@
             "id": "30fbed6463913ba6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DeepSeek R1 Deploy.md",
-                "mode": "source",
-                "source": false
+                "file": "Resource/Image/Obsidian-Git-Sync-Interval.png"
               },
-              "icon": "lucide-file",
-              "title": "DeepSeek R1 Deploy"
+              "icon": "lucide-image",
+              "title": "Obsidian-Git-Sync-Interval"
             }
           }
         ]
@@ -166,15 +164,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77872449143c0af5",
+  "active": "30fbed6463913ba6",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
     "DeepSeek R1 Deploy.md",
+    "Resource/Image/Obsidian-Git-Setting.png",
+    "Resource/Image/Obsidian-Git-Commit-Interval.png",
+    "新建 文本文档.txt",
     "Obsidian/Auto-sync-with-github.md",
     "Markdown/Online-address.md",
     "Markdown/Basic-Syntax.md",
-    "Resource/Image/Obsidian-Git-Commit-Interval.png",
-    "Resource/Image/Obsidian-Git-Setting.png",
     "Resource/Image/Obsidian-Git-Sync-Interval.png",
     "Nextjs/1.Routing.md",
     "Resource/Image",
