@@ -15,9 +15,13 @@ image: https://i2.hdslb.com/bfs/archive/a8713ad3f12f15ba66d15aaaa7e5d959cbcbb032
 ```
 ollama run deepseek-r1:7b #7b参数
 ```
+windows下ollama下载的模型存放路径: 
+``C:\Users\user\.ollama\``
 
 ### 安装openwebui界面
 [🏡 Home | Open WebUI](https://docs.openwebui.com/)
+
+
 ```
 ```
 ### 1. 下载Chatbox AI
