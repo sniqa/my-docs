@@ -1,4 +1,4 @@
-## 视频参考地址
+### 视频参考地址
 
 ```cardlink
 url: https://www.bilibili.com/video/BV1atfQYQE9P/?spm_id_from=333.1387.favlist.content.click
@@ -10,20 +10,14 @@ image: https://i2.hdslb.com/bfs/archive/a8713ad3f12f15ba66d15aaaa7e5d959cbcbb032
 
 [文字流程参考地址](https://zhuanlan.zhihu.com/p/22270028614)
 
-## 1.下载Ollama https://ollama.com/
-## 2.使用Ollama 运行以下命令
+### 1.下载Ollama https://ollama.com/
+### 2.使用Ollama 运行以下命令
 ```
 ollama run deepseek-r1:7b #7b参数
 ```
-windows下ollama下载的模型存放路径: 
+#### windows下ollama下载的模型存放路径: 
 ``C:\Users\user\.ollama\``
-
-### 安装openwebui界面
+### 3.安装webui界面
+安装open-webui作为Deepseek 的web ui页面
 [🏡 Home | Open WebUI](https://docs.openwebui.com/)
 
-
-```
-```
-### 1. 下载Chatbox AI
-
-https://chatboxai.app/zh#download
