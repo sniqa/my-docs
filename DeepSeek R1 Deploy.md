@@ -15,6 +15,11 @@ image: https://i2.hdslb.com/bfs/archive/a8713ad3f12f15ba66d15aaaa7e5d959cbcbb032
 ```
 ollama run deepseek-r1:7b #7b参数
 ```
-## 3. 下载Chatbox AI
+
+### 安装openwebui界面
+[🏡 Home | Open WebUI](https://docs.openwebui.com/)
+```
+```
+### 1. 下载Chatbox AI
 
 https://chatboxai.app/zh#download
