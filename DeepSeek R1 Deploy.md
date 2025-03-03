@@ -10,6 +10,8 @@ image: https://i2.hdslb.com/bfs/archive/a8713ad3f12f15ba66d15aaaa7e5d959cbcbb032
 
 [文字流程参考地址](https://zhuanlan.zhihu.com/p/22270028614)
 
+[本地部署deepseek模型保姆级教程 - 封尘博客](https://blog.lovefc.cn/archives/start.html)
+
 ### 1.下载Ollama https://ollama.com/
 ### 2.使用Ollama 运行以下命令
 ```
