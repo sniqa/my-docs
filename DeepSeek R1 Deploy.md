@@ -22,8 +22,7 @@ ollama run deepseek-r1:7b #7b参数
 ### 3.安装webui界面
 安装open-webui作为Deepseek 的web ui页面
 [🏡 Home | Open WebUI](https://docs.openwebui.com/)
-安装Nextjs-ollama-llm-ui作为UI界面
-[jakobhoeg/nextjs-ollama-llm-ui: Fully-featured web interface for Ollama LLMs](https://github.com/jakobhoeg/nextjs-ollama-llm-ui)
+
 ### 4. Deepseek安装要求
 
 ![[Deepseek requirement.jpg]]
