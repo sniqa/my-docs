@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Nextjs/3.Middleware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "3.Middleware"
+            }
+          },
+          {
+            "id": "c439ad62d50018a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nextjs/4.Rendering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.Rendering"
+            }
+          },
+          {
+            "id": "90620553ee9e39b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nextjs/5.Server And Client Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.Server And Client Patterns"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.500732421875
+    "width": 200
   },
   "right": {
     "id": "5efbf6e154711523",
@@ -156,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Nextjs/5.Server And Client Patterns.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "5.Server And Client Patterns 的大纲"
             }
           }
         ],
@@ -170,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,12 +212,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14e7be82dedb137f",
+  "active": "90620553ee9e39b1",
   "lastOpenFiles": [
+    "Nextjs/4.Rendering.md",
+    "Nextjs/5.Server And Client Patterns.md",
     "Nextjs/3.Middleware.md",
-    "conflict-files-obsidian-git.md",
     "Nextjs/2.Route Request.md",
     "Nextjs/1.Routing.md",
+    "conflict-files-obsidian-git.md",
     "Network/H3C.md",
     "Network/HUAWEI.md",
     "Deepseek/Altlas Deploy Deepseek.md",
