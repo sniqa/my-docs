@@ -2,6 +2,9 @@
 [1. 使用昇腾Ascend 300I Pro 310P芯片 单卡运行DeepSeek-R1-Distilled-Qwen-7B_昇腾300i pro](https://blog.csdn.net/aosudh/article/details/146044037)
 [2. 鲲鹏+昇腾部署DeepSeek-R1-Distill-Qwen-32B+Open-webui【信创国产化】（详细存档版）_atlas 300i duo部署deepseek](https://blog.csdn.net/mizhiakk/article/details/145651471?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-145651471-blog-145604232.235^v43^pc_blog_bottom_relevance_base6&spm=1001.2101.3001.4242.1&utm_relevant_index=2)
 
+### npu-smi 命令参考
+[npu-smi命令介绍（适用于1.0.11-1.0.15版本） - Atlas 300I 推理卡 用户指南（型号 3010）31 - 华为](https://support.huawei.com/enterprise/zh/doc/EDOC1100079287/10dcd668)
+
 ### 部署Deepseek大致步骤
 - 安装AI芯片的固件驱动
 - 安装Docker，用Docker运行MindIE（Mind Inference Engine，昇腾推理引擎）
