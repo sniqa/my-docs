@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic synac.md",
+                "file": "DeepSeek R1 Deploy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic synac"
+              "title": "DeepSeek R1 Deploy"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic synac.md",
+                "file": "DeepSeek R1 Deploy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Basic synac 的大纲"
+              "title": "DeepSeek R1 Deploy 的大纲"
             }
           }
         ],
