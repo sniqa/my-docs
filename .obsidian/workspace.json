@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prisma/Relationship.md",
+                "file": "Deepseek/Altlas Deploy Deepseek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relationship"
+              "title": "Altlas Deploy Deepseek"
             }
           }
         ],
@@ -201,13 +201,14 @@
   },
   "active": "47a0c67b40318e0f",
   "lastOpenFiles": [
-    "DeepSeek R1 Deploy.md",
+    "Deepseek/Open webui.md",
+    "Deepseek/Altlas Deploy Deepseek.md",
     "Prisma/Relationship.md",
+    "DeepSeek R1 Deploy.md",
     "Prisma",
     "AI.md",
     "Basic synac.md",
     "Docker",
-    "Deepseek/Altlas Deploy Deepseek.md",
     "Markdown/Basic-Syntax.md",
     "Resource/Image/HuggingFace-Deepseek-ai.png",
     "Resource/Image/HuggingFace-Deepseek-ai-32B.jpg",
@@ -215,7 +216,6 @@
     "Nextjs/5.Server And Client Patterns.md",
     "Git/Base Usage.md",
     "Git",
-    "Deepseek/Open webui.md",
     "Deepseek/Ollama.md",
     "Deepseek",
     "Markdown/Online-address.md",

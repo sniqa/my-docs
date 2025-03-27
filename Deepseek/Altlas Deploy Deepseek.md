@@ -59,6 +59,7 @@ docker load -i mindie_1.0.0_300IDuo.tar
 
 ##### 查询Altlas的卡id
 ```sh
+ls /dev/ | grep davinci
 ```
 ##### 运行容器
 ```sh
@@ -119,5 +120,9 @@ maxIterTimes与maxBatchSize： 如果需要输入长上下文，则按需改大�
 ```
 cd /usr/local/Ascend/mindie/latest/mindie-service/bin
 ./mindieservice_daemon
+
+#or
+
+nohup ./mindieservice_daemon > output.log 2>&1 &
 ```
 当出现Daemon start success时，即为服务启动成功
