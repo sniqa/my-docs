@@ -4,53 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "892659188c464f20",
+        "id": "29d7f24b162e8602",
         "type": "tabs",
         "children": [
           {
-            "id": "92aa3697d20f4e85",
+            "id": "2a6fccb2408b40de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI.md",
+                "file": "Nextjs/3.Middleware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI"
+              "title": "3.Middleware"
             }
           },
           {
-            "id": "2e4807ff24a2eea2",
+            "id": "14e7be82dedb137f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepSeek R1 Deploy.md",
+                "file": "Nextjs/3.Middleware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeepSeek R1 Deploy"
+              "title": "3.Middleware"
             }
           },
           {
-            "id": "47a0c67b40318e0f",
+            "id": "c439ad62d50018a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deepseek/Altlas Deploy Deepseek.md",
+                "file": "Nextjs/4.Rendering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Altlas Deploy Deepseek"
+              "title": "4.Rendering"
+            }
+          },
+          {
+            "id": "90620553ee9e39b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nextjs/5.Server And Client Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.Server And Client Patterns"
+            }
+          },
+          {
+            "id": "ef233001554a0bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Base Usage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Base Usage"
+            }
+          },
+          {
+            "id": "d402442285271abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excel/Base64加解密.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Base64加解密"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,9 +165,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nextjs/4.Rendering.md",
-                "collapseAll": true,
-                "extraContext": false,
+                "file": "Deepseek/Altlas Deploy Deepseek.md",
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -133,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "4.Rendering 的反向链接列表"
+              "title": "Altlas Deploy Deepseek 的反向链接列表"
             }
           },
           {
@@ -165,18 +207,18 @@
             }
           },
           {
-            "id": "47ed44c44cdf5b0a",
+            "id": "6d9d5867d64c4334",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prisma/Relationship.md",
-                "followCursor": false,
+                "file": "Excel/Base64加解密.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Relationship 的大纲"
+              "title": "Base64加解密 的大纲"
             }
           }
         ],
@@ -184,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,52 +236,53 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47a0c67b40318e0f",
+  "active": "d402442285271abc",
   "lastOpenFiles": [
-    "Deepseek/Open webui.md",
-    "Deepseek/Altlas Deploy Deepseek.md",
-    "Prisma/Relationship.md",
-    "DeepSeek R1 Deploy.md",
-    "Prisma",
-    "AI.md",
-    "Basic synac.md",
-    "Docker",
-    "Markdown/Basic-Syntax.md",
-    "Resource/Image/HuggingFace-Deepseek-ai.png",
-    "Resource/Image/HuggingFace-Deepseek-ai-32B.jpg",
-    "Resource/Image/HuggingFace-Deepseek-ai-32B-1.png",
-    "Nextjs/5.Server And Client Patterns.md",
     "Git/Base Usage.md",
-    "Git",
-    "Deepseek/Ollama.md",
-    "Deepseek",
-    "Markdown/Online-address.md",
-    "Linux/Command.md",
-    "Nextjs/4.Rendering.md",
+    "Excel/Base64加解密.md",
+    "Excel",
+    "Prisma/Relationship.md",
+    "Prisma",
     "Nextjs/5. Server And Client Patterns.md",
+    "Linux/Command.md",
     "Linux",
+    "Basic synac.md",
+    "AI.md",
+    "Nextjs/5.Server And Client Patterns.md",
+    "Git",
+    "conflict-files-obsidian-git.md",
+    "Nextjs/4.Rendering.md",
+    "Nextjs/3.Middleware.md",
+    "Nextjs/2.Route Request.md",
     "Nextjs/1.Routing.md",
     "Network/H3C.md",
+    "Network/HUAWEI.md",
+    "Deepseek/Altlas Deploy Deepseek.md",
+    "Resource/Image/HuggingFace-Deepseek-ai-32B-1.png",
+    "Obsidian/Auto-sync-with-github.md",
+    "Markdown/Online-address.md",
+    "Markdown/Basic-Syntax.md",
+    "DeepSeek R1 Deploy.md",
+    "Resource/Image/HuggingFace-Deepseek-ai-32B.jpg",
+    "Resource/Image/HuggingFace-Deepseek-ai.png",
+    "Deepseek/Ollama.md",
+    "Deepseek/Open webui.md",
+    "Deepseek",
+    "Resource/Image/Nextjs-file-system.png",
+    "Resource/Image/Deepseek requirement.jpg",
+    "Network",
     "Hamster/Schema.md",
     "Hamster/Pages.md",
-    "Network/HUAWEI.md",
-    "Obsidian/Auto-sync-with-github.md",
-    "Nextjs/3.Middleware.md",
-    "Resource/Image/Deepseek requirement.jpg",
-    "Nextjs/2.Route Request.md",
-    "Network",
-    "Resource/Image/Nextjs-file-system.png",
     "Hamster",
-    "Resource/Image/Obsidian-Git-Sync-Interval.png",
-    "Resource/Image/Obsidian-Git-Setting.png",
     "Resource/Image/Obsidian-Git-Commit-Interval.png",
-    "新建 文本文档.txt",
+    "Resource/Image/Obsidian-Git-Setting.png",
+    "Resource/Image/Obsidian-Git-Sync-Interval.png",
     "Resource/Image",
     "Resource",
+    "Obsidian",
     "React/未命名.md",
     "欢迎.md"
   ]
