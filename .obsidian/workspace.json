@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Base64加解密"
             }
+          },
+          {
+            "id": "7e885929c69bd62e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excel/符号分列函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "符号分列函数"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -212,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel/Base64加解密.md",
+                "file": "Excel/符号分列函数.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Base64加解密 的大纲"
+              "title": "符号分列函数 的大纲"
             }
           }
         ],
@@ -239,10 +253,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d402442285271abc",
+  "active": "77872449143c0af5",
   "lastOpenFiles": [
-    "Git/Base Usage.md",
     "Excel/Base64加解密.md",
+    "Excel/符号分列函数.md",
+    "Git/Base Usage.md",
     "Excel",
     "Prisma/Relationship.md",
     "Prisma",
@@ -283,7 +298,6 @@
     "Resource/Image",
     "Resource",
     "Obsidian",
-    "React/未命名.md",
-    "欢迎.md"
+    "React/未命名.md"
   ]
 }
