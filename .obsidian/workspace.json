@@ -201,8 +201,9 @@
   },
   "active": "d421d7da1658e58b",
   "lastOpenFiles": [
-    "Docker/Basic synac.md",
+    "AI.md",
     "ALIST.md",
+    "Docker/Basic synac.md",
     "DeepSeek R1 Deploy.md",
     "Linux/Command.md",
     "Prisma/Relationship.md",
@@ -213,7 +214,6 @@
     "Excel",
     "Deepseek/Open webui.md",
     "Prisma",
-    "AI.md",
     "Docker",
     "Markdown/Basic-Syntax.md",
     "Resource/Image/HuggingFace-Deepseek-ai.png",
