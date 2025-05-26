@@ -7,3 +7,9 @@ docker save -o  {{path/to/file.tar}} {{image}}:{{tag}}
 ```
 docker run -d -e [env] [name] [images name]
 ```
+
+### Docker cp命令
+```
+docker cp [OPTIONS] SRC_PATH CONTAINER:DEST_PATH
+docker cp [OPTIONS] CONTAINER:SRC_PATH DEST_PATH
+```
