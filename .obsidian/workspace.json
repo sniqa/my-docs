@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Basic synac.md",
+                "file": "Linux/Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic synac"
+              "title": "Command"
             }
           }
         ]
@@ -186,12 +186,12 @@
   },
   "active": "3f5639f047ed1c68",
   "lastOpenFiles": [
+    "Docker/Basic synac.md",
     "T.canvas",
     "未命名.md",
     "DeepSeek R1 Deploy.md",
     "ALIST.md",
     "AI.md",
-    "Docker/Basic synac.md",
     "Linux/Command.md",
     "Prisma/Relationship.md",
     "Git/Base Usage.md",
