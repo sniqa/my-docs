@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Command.md",
+                "file": "ALIST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command"
+              "title": "ALIST"
             }
           }
         ]
@@ -186,13 +186,13 @@
   },
   "active": "3f5639f047ed1c68",
   "lastOpenFiles": [
+    "Linux/Command.md",
     "Docker/Basic synac.md",
     "T.canvas",
     "未命名.md",
     "DeepSeek R1 Deploy.md",
     "ALIST.md",
     "AI.md",
-    "Linux/Command.md",
     "Prisma/Relationship.md",
     "Git/Base Usage.md",
     "Deepseek/Altlas Deploy Deepseek.md",
