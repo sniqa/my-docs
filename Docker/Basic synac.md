@@ -2,7 +2,10 @@
 ```sh
 docker save -o  {{path/to/file.tar}} {{image}}:{{tag}}
 ```
-
+### 导入镜像
+```shell
+docker load -i {{path/to/file.tar}}
+```
 ### 添加环境变量
 ```
 docker run -d -e [env] [name] [images name]
