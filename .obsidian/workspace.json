@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALIST.md",
+                "file": "Docker/Basic synac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ALIST"
+              "title": "Basic synac"
             }
           }
         ]
@@ -186,12 +186,12 @@
   },
   "active": "3f5639f047ed1c68",
   "lastOpenFiles": [
+    "ALIST.md",
     "Linux/Command.md",
     "Docker/Basic synac.md",
     "T.canvas",
     "未命名.md",
     "DeepSeek R1 Deploy.md",
-    "ALIST.md",
     "AI.md",
     "Prisma/Relationship.md",
     "Git/Base Usage.md",
