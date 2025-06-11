@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyper-v/Network.md",
+                "file": "AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network"
+              "title": "AI"
+            }
+          },
+          {
+            "id": "322051aa2180ee17",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-06-11 15.28.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-11 15.28.04.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,19 +197,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "be1c37763b419492",
+  "active": "77872449143c0af5",
   "lastOpenFiles": [
-    "Hyper-v/Deploy hyper-v.md",
+    "AI.md",
+    "Drawing 2025-06-11 15.28.04.excalidraw.md",
+    "未命名.md",
+    "ALIST.md",
     "Hyper-v/Network.md",
+    "Hyper-v/Deploy hyper-v.md",
     "Docker/Basic synac.md",
     "Hyper-v/deploy-hyper-v.bat",
     "Hyper-v",
-    "ALIST.md",
     "Linux/Command.md",
     "T.canvas",
-    "未命名.md",
     "DeepSeek R1 Deploy.md",
-    "AI.md",
     "Prisma/Relationship.md",
     "Git/Base Usage.md",
     "Deepseek/Altlas Deploy Deepseek.md",
@@ -223,7 +237,6 @@
     "Hamster/Schema.md",
     "Hamster/Pages.md",
     "Network/HUAWEI.md",
-    "Obsidian/Auto-sync-with-github.md",
     "Resource/Image/Deepseek requirement.jpg",
     "Network",
     "Resource/Image/Nextjs-file-system.png",
