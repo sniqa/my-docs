@@ -34,7 +34,7 @@ sudo cat >> /etc/fstab << eof
 UUID=d8976cbc-ee12-4579-8270-b3995b55dcd4 /data01 ext4    defaults        0 0
 eof   //将挂载到data01目录 文件格式为ext4
 ```
-#### 挂载
+#### 刷新挂载
 ```shell
-sudo mount -a
+sudo mount -a //将/etc/fstab的配置挂载
 ```
