@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/HUAWEI.md",
+                "file": "Linux/Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUAWEI"
+              "title": "Command"
             }
           }
         ],
@@ -168,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/HUAWEI.md",
+                "file": "Linux/Command.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HUAWEI 的大纲"
+              "title": "Command 的大纲"
             }
           },
           {
@@ -213,6 +213,7 @@
   },
   "active": "ad92226908d6a5e0",
   "lastOpenFiles": [
+    "Network/HUAWEI.md",
     "Linux/Command.md",
     "Deploy Confluence.md",
     "Drawing 2025-06-11 15.28.04.excalidraw.md",
@@ -250,7 +251,6 @@
     "Network/H3C.md",
     "Hamster/Schema.md",
     "Hamster/Pages.md",
-    "Network/HUAWEI.md",
     "Resource/Image/Deepseek requirement.jpg",
     "Network",
     "Resource/Image/Nextjs-file-system.png",
