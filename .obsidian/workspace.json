@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI.md",
+                "file": "Linux/Hard Disk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI"
+              "title": "Hard Disk"
             }
           },
           {
-            "id": "322051aa2180ee17",
+            "id": "9ae65283b36e4572",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2025-06-11 15.28.04.excalidraw.md"
+                "file": "Linux/Hard Disk.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-11 15.28.04.excalidraw"
+              "icon": "lucide-file",
+              "title": "Hard Disk"
             }
           },
           {
@@ -39,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Hard disk.md",
+                "file": "Linux/Hard Disk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hard disk"
+              "title": "Hard Disk"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Hard disk.md",
+                "file": "Linux/Hard Disk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Hard disk 的大纲"
+              "title": "Hard Disk 的大纲"
             }
           },
           {
@@ -211,13 +213,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "77872449143c0af5",
+  "active": "9ae65283b36e4572",
   "lastOpenFiles": [
-    "Network/HUAWEI.md",
-    "Linux/Hard disk.md",
-    "Deploy Confluence.md",
-    "Drawing 2025-06-11 15.28.04.excalidraw.md",
+    "Linux/Base Command.md",
+    "Linux/Hard Disk.md",
     "AI.md",
+    "Drawing 2025-06-11 15.28.04.excalidraw.md",
+    "Network/HUAWEI.md",
+    "Deploy Confluence.md",
     "ALIST.md",
     "Hyper-v/Network.md",
     "Hyper-v/Deploy hyper-v.md",
@@ -250,7 +253,6 @@
     "Nextjs/1.Routing.md",
     "Network/H3C.md",
     "Hamster/Schema.md",
-    "Hamster/Pages.md",
     "Resource/Image/Deepseek requirement.jpg",
     "Network",
     "Resource/Image/Nextjs-file-system.png",
