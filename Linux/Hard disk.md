@@ -38,3 +38,27 @@ eof   //将挂载到data01目录 文件格式为ext4
 ```shell
 sudo mount -a //将/etc/fstab的配置挂载
 ```
+
+
+### 硬盘组软raid
+1. 组建软raid需要的工具：mdadm
+```shell
+yum install mdadm
+```
+2. 创建raid阵列
+```shell
+mdadm --create --verbose /dev/md0 --level=5 --raid-devices=3 /dev/sdb /dev/sdc /dev/sdd #使用三个硬盘创建raid5名称为md0
+```
+3. 查看md的状态**必须等待md的状态完成**
+```shell
+watch -n 1 cat /proc/mdstat
+```
+4. 查看raid的详细信息
+```shell
+mdadm -D /dev/md0
+```
+5. 创建文件系统
+```shell
+parted /dev/md0 mklabel gpt #将md0改为gpt
+mkfs.xfs /dev/md0  #将md0格式化为xfs大文件系统，需系统支持xfs
+```

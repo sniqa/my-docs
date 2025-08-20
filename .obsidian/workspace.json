@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Command.md",
+                "file": "Linux/Hard disk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command"
+              "title": "Hard disk"
             }
           }
         ],
@@ -168,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Command.md",
+                "file": "Linux/Hard disk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Command 的大纲"
+              "title": "Hard disk 的大纲"
             }
           },
           {
@@ -211,10 +211,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ad92226908d6a5e0",
+  "active": "77872449143c0af5",
   "lastOpenFiles": [
     "Network/HUAWEI.md",
-    "Linux/Command.md",
+    "Linux/Hard disk.md",
     "Deploy Confluence.md",
     "Drawing 2025-06-11 15.28.04.excalidraw.md",
     "AI.md",
