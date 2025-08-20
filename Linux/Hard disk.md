@@ -76,8 +76,31 @@ mdadm --detail --scan | sudo tee -a /etc/mdadm.conf
 ```shell
 dracut -force
 ```
-#### 9.禁用RAID
+#### 9.禁用启用RAID
 ```shell
 umount /data #卸载
-mdadm -S /dev/m
+mdadm -S /dev/md0 #停止
+mdadm -A /dev/md0 #启用
+```
+#### 10.模拟/dev/sdc损坏
+```shell
+mdadm /dev/md5 -f /dev/sdc
+mdadm -D /dev/md0 # 查看md0的状态
+```
+#### 11. 移除RAID里的硬盘
+```shell
+mdadm /dev/md0 -r /dev/sdc
+mdadm -D /dev/md0
+lsblk #查看硬盘状态
+```
+#### 12. 添加到raid成员
+```shell
+mdadm /dev/md0 -a /dev/sdc
+mdadm -D /dev/md0
+```
+#### 13.变更RAID配置
+```shell
+mdamd -G /dev/md0 -n 4 -a /dev/sdf #md0成员从3个到4个
+e2fsck -f /dev/md0 #检测文件系统完整性
+resize2fs /dev/md0 #同步文件系统
 ```
