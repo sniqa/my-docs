@@ -168,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2025-06-11 15.28.04.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-06-11 15.28.04.excalidraw 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -211,8 +210,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9ae65283b36e4572",
+  "active": "9dc2e175e844997c",
   "lastOpenFiles": [
+    "Drawing 2025-06-11 15.28.04.excalidraw.md",
     "Deploy Confluence.md",
     "DeepSeek R1 Deploy.md",
     "AI.md",
@@ -224,7 +224,6 @@
     "Hyper-v/Network.md",
     "Linux/Hard Disk.md",
     "Linux/Base Command.md",
-    "Drawing 2025-06-11 15.28.04.excalidraw.md",
     "Network/HUAWEI.md",
     "Docker/Basic synac.md",
     "Hyper-v/deploy-hyper-v.bat",
