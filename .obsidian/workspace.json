@@ -27,12 +27,40 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://support.huawei.com/enterprise/zh/doc/EDOC1100422575/2ff3e934",
+                "url": "https://support.huawei.com/enterprise/zh/doc/EDOC1100422575/f4a62e83",
                 "title": "获取软件包 - Atlas 中心推理卡 24.1.RC3 NPU驱动和固件安装指南 04 - 华为",
                 "mode": "webview"
               },
               "icon": "globe-2",
               "title": "获取软件包 - Atlas 中心推理卡 24.1.RC3 NPU驱动和固件安装指南 04 - 华为"
+            }
+          },
+          {
+            "id": "c14d852059f492fc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://support.huawei.com/enterprise/zh/ascend-computing/ascend-hdk-pid-252764743/software",
+                "title": "华为 Ascend HDK 软件下载和补丁升级-华为",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "华为 Ascend HDK 软件下载和补丁升级-华为"
+            }
+          },
+          {
+            "id": "6c59dc41d914a46f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://uniportal.huawei.com/uniportal1/login-pc.html?redirect=https%3A%2F%2Fsupport.huawei.com%2Fenterprise%2Fzh%2Fascend-computing%2Fascend-hdk-pid-252764743%2Fsoftware%2F266821732%3FidAbsPath%3Dfixnode01%257C23710424%257C251366513%257C254884019%257C261408772%257C252764743&x_app_id=huawei.support.microservice#/passwordLogin",
+                "title": "Uniportal账号登录",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Uniportal账号登录"
             }
           },
           {
@@ -63,8 +91,7 @@
               "title": "华为 Ascend HDK 安装升级-华为"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,12 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Deepseek/Altlas Deploy Deepseek.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Altlas Deploy Deepseek 的大纲"
             }
           },
           {
@@ -226,7 +254,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7ed4895a547e454",
+  "active": "9ae65283b36e4572",
   "lastOpenFiles": [
     "Deepseek/Altlas Deploy Deepseek.md",
     "Linux/Hard Disk.md",
