@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "4832a47bdd3dd2ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
+          },
+          {
             "id": "e7ed4895a547e454",
             "type": "leaf",
             "state": {
@@ -91,7 +103,8 @@
               "title": "华为 Ascend HDK 安装升级-华为"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,6 +256,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -254,7 +268,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9ae65283b36e4572",
+  "active": "4832a47bdd3dd2ca",
   "lastOpenFiles": [
     "Deepseek/Altlas Deploy Deepseek.md",
     "Linux/Hard Disk.md",
