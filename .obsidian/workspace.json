@@ -25,12 +25,14 @@
             "id": "4832a47bdd3dd2ca",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Network/HUAWEI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
+              "icon": "lucide-file",
+              "title": "HUAWEI"
             }
           },
           {
@@ -224,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deepseek/Altlas Deploy Deepseek.md",
+                "file": "Network/HUAWEI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Altlas Deploy Deepseek 的大纲"
+              "title": "HUAWEI 的大纲"
             }
           },
           {
@@ -270,6 +272,8 @@
   },
   "active": "4832a47bdd3dd2ca",
   "lastOpenFiles": [
+    "Network/H3C.md",
+    "Network/HUAWEI.md",
     "Deepseek/Altlas Deploy Deepseek.md",
     "Linux/Hard Disk.md",
     "Hyper-v/Network.md",
@@ -283,7 +287,6 @@
     "Obsidian/Auto-sync-with-github.md",
     "Markdown/Online-address.md",
     "Linux/Base Command.md",
-    "Network/HUAWEI.md",
     "Docker/Basic synac.md",
     "Hyper-v/deploy-hyper-v.bat",
     "Hyper-v",
@@ -307,7 +310,6 @@
     "Nextjs/5. Server And Client Patterns.md",
     "Linux",
     "Nextjs/1.Routing.md",
-    "Network/H3C.md",
     "Resource/Image/Deepseek requirement.jpg",
     "Network",
     "Resource/Image/Nextjs-file-system.png",
