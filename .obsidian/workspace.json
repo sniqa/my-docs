@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/HUAWEI.md",
+                "file": "Docker/Basic synac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUAWEI"
+              "title": "Basic synac"
             }
           },
           {
@@ -226,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/HUAWEI.md",
+                "file": "Docker/Basic synac.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HUAWEI 的大纲"
+              "title": "Basic synac 的大纲"
             }
           },
           {
@@ -272,16 +272,18 @@
   },
   "active": "4832a47bdd3dd2ca",
   "lastOpenFiles": [
-    "Network/H3C.md",
-    "Network/HUAWEI.md",
+    "AI/昇腾310I Duo部署vllm-openai-v0.9.2.md",
+    "AI.md",
+    "AI",
     "Deepseek/Altlas Deploy Deepseek.md",
+    "Network/HUAWEI.md",
+    "Network/H3C.md",
     "Linux/Hard Disk.md",
     "Hyper-v/Network.md",
     "Hyper-v/Deploy hyper-v.md",
     "DeepSeek R1 Deploy.md",
     "Deploy Confluence.md",
     "Drawing 2025-06-11 15.28.04.excalidraw.md",
-    "AI.md",
     "ALIST.md",
     "Prisma/Relationship.md",
     "Obsidian/Auto-sync-with-github.md",
@@ -309,11 +311,9 @@
     "Nextjs/4.Rendering.md",
     "Nextjs/5. Server And Client Patterns.md",
     "Linux",
-    "Nextjs/1.Routing.md",
     "Resource/Image/Deepseek requirement.jpg",
     "Network",
     "Resource/Image/Nextjs-file-system.png",
-    "Hamster",
     "Resource/Image/Obsidian-Git-Sync-Interval.png",
     "Resource/Image/Obsidian-Git-Setting.png",
     "Resource/Image/Obsidian-Git-Commit-Interval.png"
