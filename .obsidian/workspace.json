@@ -39,14 +39,14 @@
             "id": "2ca459fa5a2338b4",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://support.huawei.com/enterprise/zh/doc/EDOC1100422575/289e2d2d",
-                "title": "用户必读 - Atlas 中心推理卡 24.1.RC3 NPU驱动和固件安装指南 04 - 华为",
-                "mode": "webview"
+                "file": "Docker/Basic synac.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "用户必读 - Atlas 中心推理卡 24.1.RC3 NPU驱动和固件安装指南 04 - 华为"
+              "icon": "lucide-file",
+              "title": "Basic synac"
             }
           }
         ],
@@ -170,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Docker/Basic synac.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Basic synac 的大纲"
             }
           },
           {
