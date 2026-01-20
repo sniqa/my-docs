@@ -56,15 +56,14 @@
               "type": "webviewer",
               "state": {
                 "url": "https://support.huawei.com/enterprise/zh/doc/EDOC1100079287/10dcd668",
-                "title": "support.huawei.com/enterprise/zh/doc/EDOC1100079287/10dcd668",
+                "title": "npu-smi命令介绍（适用于1.0.11-1.0.15版本） - Atlas 300I 推理卡 用户指南（型号 3010）31 - 华为",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "support.huawei.com/enterprise/zh/doc/EDOC1100079287/10dcd668"
+              "title": "npu-smi命令介绍（适用于1.0.11-1.0.15版本） - Atlas 300I 推理卡 用户指南（型号 3010）31 - 华为"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,12 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Deepseek/Altlas Deploy Deepseek.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Altlas Deploy Deepseek 的大纲"
             }
           },
           {
@@ -227,7 +227,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "350e7cce978b3afb",
+  "active": "9ae65283b36e4572",
   "lastOpenFiles": [
     "Deepseek/Altlas Deploy Deepseek.md",
     "Drawing 2025-06-11 15.28.04.excalidraw.md",
