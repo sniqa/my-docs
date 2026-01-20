@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deepseek/Altlas Deploy Deepseek.md",
+                "file": "Linux/Base Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Altlas Deploy Deepseek"
+              "title": "Base Command"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deepseek/Altlas Deploy Deepseek.md",
+                "file": "Linux/Base Command.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Altlas Deploy Deepseek 的大纲"
+              "title": "Base Command 的大纲"
             }
           },
           {
@@ -229,13 +229,13 @@
   },
   "active": "9ae65283b36e4572",
   "lastOpenFiles": [
+    "Linux/Hard Disk.md",
     "Deepseek/Altlas Deploy Deepseek.md",
     "Drawing 2025-06-11 15.28.04.excalidraw.md",
     "Deploy Confluence.md",
     "DeepSeek R1 Deploy.md",
     "Docker/Basic synac.md",
     "AI.md",
-    "Linux/Hard Disk.md",
     "Linux/Base Command.md",
     "AI/昇腾310I Duo部署vllm-openai-v0.9.2.md",
     "AI",
