@@ -17,7 +17,7 @@ sudo parted /dev/sda mkpart primary 0% 100% #分区使用整个磁盘空间
 ```
 #### 格式化磁盘
 ```shell
-sudo mafs.ext4 /dev/sda1 #格式化分区sda1,文件格式为ext4
+sudo mkfs.ext4 /dev/sda1 #格式化分区sda1,文件格式为ext4
 ```
 #### 挂载分区到目录
 ```shell
