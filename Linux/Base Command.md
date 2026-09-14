@@ -6,3 +6,7 @@ cat /proc/version
 ```
 nohup ./test.sh > output.log 2>&1 &
 ```
+### 开放端口
+```sh
+firewall-cmd --zone=public --add-port=8080/tcp --permanent
+```
