@@ -99,7 +99,8 @@ resize2fs /dev/md0 #同步文件系统
 
 ### 挂载镜像源，并把安装源指向镜像源
 mkdir -p /mnt/cdrom
-mount -o loop /dev/cdrom /mnt/cdrom
+lsblk | grep sr0
+mount /dev/sr0 /mnt/cdrom
 cd /etc/yum.repos.d/ 
 mkdir bak 
 mv *.repo bak/
@@ -111,3 +112,7 @@ baseurl=file:///mnt/openEuler
 enabled=1
 gpgcheck=0
 ```
+
+yum clean all 
+yum makecache 
+yum repolist
