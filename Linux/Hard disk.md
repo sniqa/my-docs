@@ -23,7 +23,7 @@ sudo mkfs.xfs /dev/sda1 #格式化分区sda1,文件格式为ext4
 ```shell
 sudo cat >> /etc/fstab << eof
 UUID=a619425b-0135-40b4-b0b3-bb9193b9c334 /data xfs defaults 0 0
-eof   #将挂载到data01目录 文件格式为ext4
+eof   #将挂载到data01目录 文件格式为xfs
 ```
 #### 刷新挂载
 ```shell
