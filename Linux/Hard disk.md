@@ -95,3 +95,19 @@ mdamd -G /dev/md0 -n 4 -a /dev/sdf #md0成员从3个到4个
 e2fsck -f /dev/md0 #检测文件系统完整性
 resize2fs /dev/md0 #同步文件系统
 ```
+
+
+### 挂载镜像源，并把安装源指向镜像源
+mkdir -p /mnt/cdrom
+mount -o loop /dev/cdrom /mnt/cdrom
+cd /etc/yum.repos.d/ 
+mkdir bak 
+mv *.repo bak/
+vi /etc/yum.repos.d/local.repo
+```shell
+[local]
+name=local
+baseurl=file:///mnt/openEuler
+enabled=1
+gpgcheck=0
+```
