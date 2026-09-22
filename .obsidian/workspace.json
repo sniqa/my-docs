@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Base Command.md",
+                "file": "Linux/Hard Disk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base Command"
+              "title": "Hard Disk"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Base Command.md",
+                "file": "Linux/Hard Disk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Base Command 的大纲"
+              "title": "Hard Disk 的大纲"
             }
           },
           {
@@ -244,6 +244,7 @@
   },
   "active": "2ca459fa5a2338b4",
   "lastOpenFiles": [
+    "Linux/Base Command.md",
     "未命名 1.base",
     "未命名.base",
     "AI.md",
@@ -251,7 +252,6 @@
     "Deploy Confluence.md",
     "Deepseek/Open webui.md",
     "Linux/Hard Disk.md",
-    "Linux/Base Command.md",
     "Deepseek/Altlas Deploy Deepseek.md",
     "Drawing 2025-06-11 15.28.04.excalidraw.md",
     "Docker/Basic synac.md",
