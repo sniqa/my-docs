@@ -108,7 +108,7 @@ vi /etc/yum.repos.d/local.repo
 ```shell
 [local]
 name=local
-baseurl=file:///mnt/openEuler
+baseurl=file:///mnt/cdrom
 enabled=1
 gpgcheck=0
 ```
