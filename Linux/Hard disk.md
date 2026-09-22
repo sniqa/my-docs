@@ -17,12 +17,12 @@ sudo parted /dev/sda mkpart primary 0% 100% #分区使用整个磁盘空间
 ```
 #### 格式化磁盘
 ```shell
-sudo mkfs.ext4 /dev/sda1 #格式化分区sda1,文件格式为ext4
+sudo mkfs.xfs /dev/sda1 #格式化分区sda1,文件格式为ext4
 ```
 #### 挂载分区到目录
 ```shell
 sudo cat >> /etc/fstab << eof
-UUID=cc95b081-f00f-45b8-a6b2-a3983e433eb3 /data01 xfs    defaults        0 0
+UUID=a619425b-0135-40b4-b0b3-bb9193b9c334 /data xfs defaults 0 0
 eof   #将挂载到data01目录 文件格式为ext4
 ```
 #### 刷新挂载
